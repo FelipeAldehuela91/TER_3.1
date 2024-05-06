@@ -1,0 +1,36 @@
+tr, th, td {
+    padding: 15px;
+}
+table{
+    margin: 50px auto;
+    border-collapse: collapse;
+    text-align: center;
+    border: 5px solid black;
+    box-shadow: 0 0 15px black;
+}
+table input{
+    width: 50%;
+    box-shadow: 1px 1px 5px;
+    text-align: center;
+    padding: 3px;
+}
+table select{
+    width: 100%;
+    box-shadow: 1px 1px 5px;
+    text-align: center;
+    padding: 3px;
+}
+table th{
+    background-color: #EB984E;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+table td{
+    background-color: #AED6F1;
+}
+table button{
+    background-color: #D7DBDD;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+}
